@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBasics</string>
+    <string name="sample_text">sample_text</string>
+    <string name="type_city_name_here">Type city name here</string>
+    <string name="delete_selected_city">DELETE SELECTED CITY</string>
+    <string name="add">ADD</string>
+</resources>
